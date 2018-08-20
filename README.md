@@ -1,0 +1,2 @@
+# EllipsizeInRecyclerView
+Sample
